@@ -1,3 +1,11 @@
+; =========================================
+; Question 1:
+; Write a program with indexed addressing that calculates the sum 
+; of all the gaps between array elements.
+; Array: {0,2,5,9,10}
+; Gaps: 2,3,4,1 → Total = 10
+; =========================================
+
 INCLUDE Irvine32.inc  
 
 .data  
