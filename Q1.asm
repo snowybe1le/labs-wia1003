@@ -1,4 +1,3 @@
-;
 ; Question 1:
 ; Write a program with indexed addressing that calculates the sum 
 ; of all the gaps between array elements.
