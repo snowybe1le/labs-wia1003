@@ -1,4 +1,3 @@
-; =========================================
 ; Question 4:
 ; Create a procedure that receives marks (0–100)
 ; and displays grade:
@@ -7,7 +6,6 @@
 ; 70–79  → C
 ; 60–69  → D
 ; 0–59   → F
-; =========================================
 
 INCLUDE Irvine32.inc  
 
